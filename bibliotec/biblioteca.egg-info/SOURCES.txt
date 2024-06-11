@@ -1,0 +1,16 @@
+setup.py
+biblioteca/__init__.py
+biblioteca.egg-info/PKG-INFO
+biblioteca.egg-info/SOURCES.txt
+biblioteca.egg-info/dependency_links.txt
+biblioteca.egg-info/top_level.txt
+biblioteca/buscarautor/__init__.py
+biblioteca/buscarautor/buscaraut.py
+biblioteca/eliminarlibro/__init__.py
+biblioteca/eliminarlibro/eliminalib.py
+biblioteca/entrarlibro/__init__.py
+biblioteca/entrarlibro/entralib.py
+biblioteca/mostrarlibros/__init__.py
+biblioteca/mostrarlibros/mostrarlib.py
+biblioteca/verificarbiblioteca/__init__.py
+biblioteca/verificarbiblioteca/verificabibl.py
